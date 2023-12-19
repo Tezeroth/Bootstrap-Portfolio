@@ -19,20 +19,22 @@ Using Bootstrap, recreate your portfolio site with the following items:
 
     # A work section
 
--  For this section, I displayed some old work I did in Sketch fab using bootstrap cards in a grid. When the pictures are clicked on they either open a bigger picture or go through to an external website. I gave the work a brief description, and hopefully, when we complete more projects I will add more.
+-  For this section, I displayed some old work I did in Sketch Fab using bootstrap cards in a grid. When the pictures are clicked on they either open a bigger picture or go through to an external website. I gave the work a brief description, and hopefully, when we complete more projects I will add more.
 
     # A skills section
 
-- I a card stretched over 2 columns I wrote down the skills I expect to learn from the boot camp
+- I a card stretched over 2 columns I wrote down the skills I expected to learn from the boot camp
 
     # An about/contact section
 - I borrowed some bootstrap code from: https://bootstrapbrain.com/component/bootstrap-5-minimal-about-me-section/#code, where I changed the background color. and did a CSS override on the button for it to display a drop shadow.
 
     # A footer section
-- I had difficulties with the footer section, trying to get it to display icons. i will come back to this.
+- I had difficulties with the footer section, trying to get it to display icons. I will come back to this.
 
     # Your Bootstrap solution should minimize the use of media queries.
   
 - This website doesn't use any media queries as far as I am aware
 
 ![Screenshot 2023-12-19 204628](https://github.com/Tezeroth/Bootstrap-Portfolio/assets/64762171/968c4300-3db8-4059-9d1e-09729fb2f8e5)
+
+Things I learned in completing this project - there is a difference between: 'link rel' and 'link href'
