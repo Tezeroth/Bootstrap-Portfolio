@@ -6,7 +6,3 @@
 
   .row {--bs-gutter-x:0rem};
 
-  #footer{
-   background-image: url("../images/02-hero-bg.jpg");
-   z-index: 1;
-  }
