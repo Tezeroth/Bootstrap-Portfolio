@@ -1,47 +1,38 @@
 ## Bootstrap-Portfolio
 
 
-## The acceptance criteria for this project is:
+## The acceptance criteria for this project are:
 
 Using Bootstrap, recreate your portfolio site with the following items:
 
-    # A navigation bar
+# A navigation bar - A navigation menu at the top. Feel free to use the navbar code provided in Bootstrap's documentation, or create your own navbar by applying the correct Bootstrap classes to your HTML
 
-    A navigation menu at the top. Feel free to use the navbar code provided in Bootstrap's documentation, or create your own navbar by applying the correct Bootstrap classes to your HTML.
+- for this task, I used a standard bootstrap nav bar and edited the colors and components.
+  
+- I included links that are applicable to my portfolio, such as a link to my resume, and anchor points on the page
 
-        Include links that are applicable to your portfolio.
 
-        Links should navigate to the appropriate sections
 
-    # A hero section
-        A jumbotron featuring your picture, your name, and any other information you'd like to include.
+ # A hero section - A jumbotron featuring your picture, your name, and any other information you'd like to include.
+
+ - I completed the above tasks using a standard jumbotron. I took out the code for the button and added an image in the HTML with border radius at 50%
 
     # A work section
 
-        A section displaying your work in grid.
-
-        If you need to use placeholder image use placehold.co 
-
-        Links to an external site.
-
-        Use Bootstrap cards for each project.
-
-        The description should give a brief overview of the work.
-
-        Each project will eventually link to your class project work!
+-  For this section, I displayed some old work I did in Sketch fab using bootstrap cards in a grid. When the pictures are clicked on they either open a bigger picture or go through to an external website. I gave the work a brief description, and hopefully, when we complete more projects I will add more.
 
     # A skills section
-        List out the skills you expect to learn from the bootcamp.
+
+- I a card stretched over 2 columns I wrote down the skills I expect to learn from the boot camp
 
     # An about/contact section
-        An About Me section in the same row.
+- I borrowed some bootstrap code from: https://bootstrapbrain.com/component/bootstrap-5-minimal-about-me-section/#code, where I changed the background color. and did a CSS override on the button for it to display a drop shadow.
 
     # A footer section
+- I had difficulties with the footer section, trying to get it to display icons. i will come back to this.
 
-        All hyperlinks should have a hover effect.
+    # Your Bootstrap solution should minimize the use of media queries.
+  
+- This website doesn't use any media queries as far as I am aware
 
-        All buttons should display a box shadow upon hover.
-
-Your Bootstrap solution should minimize use of media queries.
-
-Deploy your new Bootstrap-powered portfolio to GitHub Pages.
+![Screenshot 2023-12-19 204628](https://github.com/Tezeroth/Bootstrap-Portfolio/assets/64762171/968c4300-3db8-4059-9d1e-09729fb2f8e5)
