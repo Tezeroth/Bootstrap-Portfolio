@@ -5,3 +5,7 @@
   }
 
   .row {--bs-gutter-x:0rem};
+
+  #footerlinks{
+    margin: opx;
+  }
