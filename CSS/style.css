@@ -1,15 +1,1 @@
-/* .card-body{ display: flex;
-align-content: space-around;;}
-
-.customrow {
-    --bs-gutter-x:0rem;
-    --bs-gutter-y:0;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: normal;
-    justify-content: normal;
-    align-items: normal;
-    margin-right: calc(-.5*var(--bs-gutter-x));
-    margin-left: calc(-.5*var(--bs-gutter-x));
-} */
+.btn {font: 200px;}
